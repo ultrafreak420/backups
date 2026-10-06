@@ -1,1 +1,1 @@
-quickshell hyprland kitty thunar missioncenter neovim zsh vivaldi discord steam gparted galculator protonup-qt yay 
+quickshell hyprland kitty thunar missioncenter neovim zsh vivaldi discord steam gparted galculator protonup-qt yay ark 
